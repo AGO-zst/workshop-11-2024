@@ -7,6 +7,7 @@ Utwórz nowy plik z rozszerzeniem `workshop.md` i przy pomocy znacznik `#` (H1) 
 
 ## Przydatne Materiały
 
+- [Git](https://pl.wikipedia.org/wiki/Git_(oprogramowanie))
 - [podstawowe komendy Git](https://education.github.com/git-cheat-sheet-education.pdf)
 - [markdown](https://www.markdownguide.org/cheat-sheet/)
 - [interaktywny tutorial git](https://learngitbranching.js.org/?locale=pl)
