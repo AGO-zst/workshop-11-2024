@@ -2,7 +2,7 @@
 
 ### Zadanie 
 
-Utwórz nowy plik z rozszerzeniem `workshop.md` i przy pomocy znacznik `#` (H1) wpisz swoje imię.
+Utwórz nowy plik `workshop.md` i przy pomocy znacznik `#` (`# Adrian`) wpisz swoje imię.
 
 
 ## Przydatne Materiały
